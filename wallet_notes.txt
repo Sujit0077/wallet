@@ -1,0 +1,47 @@
+MetaMask crypto currency wallet employs the web3.js library to function. This 
+library is a part of the official Ethereum product. The library was developed 
+focusing on the requirements of web applications that could interact with the 
+Ethereum block chain and take advantage of all block chain’s benefits and 
+functions. 
+MetaMask is a crypto currency wallet for Ethereum and an instrument that helps to 
+interact with DApps. MetaMask connects the extension to the DApp so that to 
+fulfil both tasks. When the application identifies the MetaMask, it creates a 
+connection, and the user can start using all the features of a specific application.
+
+MetaMask wallet key features: 
+ 
+Easy to use. The first and most apparent benefit of the MetaMask wallet is the 
+ease of use. The wallet offers an intuitive and straightforward user interface that 
+makes the management of crypto currencies and interaction with DApps easier 
+than ever before.\
+Integration with various DApps. Meta Mask’s users can connect with numerous 
+decentralized applications with a single tap on the screen. It allows them to 
+exchange their tokens swiftly on Uniswap or Pancake Swap exchangers, launch 
+block chain games like Gods Unchained,. 
+ 
+Integration with other block chains. The additional benefit of MetaMask is that 
+you can join it to other block chains 
+ 
+Hardware wallets support. MetaMask service is compatible with hardware 
+crypto currency wallets like Ledger, Nano, or Trezor. 
+ 
+Swaps support. In 2021 MetaMask offered its users a relatively cheap and fast 
+opportunity to exchange their tokens within the wallet with Swaps. This function 
+supports several automatic marker makers (MM) that help find the best token 
+exchange rate. 
+ 
+NFT support. MetaMask wallet also allows storing NFTs. When a user buys an 
+NFT on a platform, the token is automatically displayed in the tab of collectible 
+items in the wallet. 
+ 
+Main functions of a crypto currency wallet 
+ 
+ Registration. 
+ 
+ Applicable exchange rate 
+ 
+ Operations with the crypto currency assets 
+ 
+ Favourite addresses 
+ 
+ Employing other block chains
